@@ -1,3 +1,3 @@
-# Demo
+# Great Number Game
 
 Some description!
